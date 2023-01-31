@@ -57,14 +57,6 @@ function validateAndGetFormData() {
 
     return JSON.stringify(jsonStrObj);
 }
-//output from above function is 
-/* 
-"empId": "schNameVar",
-"empName": "schNameVar",
-"empSalary": "schBirthDate",
-"empDeduction": "schAddress",
-*/
-//json formated data
 
 
 function getEmpIdAsJsonObj() {
